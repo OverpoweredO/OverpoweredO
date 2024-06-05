@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OverpoweredO (Ope)
+- 👋 Hi, I’m @OverpoweredO (O)
 - 👀 I’m interested in Cryptocurrency mainly but I do a bit of everything.
 - 🌱 I’m currently studying Accounting and Finance Bsc and learning code to eventually call myself a full stack dev
 - 💞️ I’m looking to collaborate on anything. 
